@@ -1,3 +1,3 @@
-function showMessage() {
-  document.getElementById('output').textContent = 'Thanks for clicking!';
+function toggleTheme() {
+  document.body.classList.toggle('dark-mode');
 }
