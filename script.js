@@ -1,3 +1,3 @@
 function showMessage() {
-  document.getElementById("output").innerHTML = "Thanks for visiting my resume website!";
+  document.getElementById('output').textContent = 'Thanks for clicking!';
 }
